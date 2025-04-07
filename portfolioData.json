@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Figma Aplicativo Elderly Person",
+    "description": "Aplicativo Elderly Person",
+    "image": null,
+    "github": "https://www.figma.com/proto/ECJDJKF5nlKjsES6EXRGje/Untitled?node-id=0-1&t=X1ChmjQoy6Qp3VuZ-1",
+    "tipo": "figma"
+  }, 
+  {
+    "name": "Figma Aplicativo Gym Free",
+    "description": "Aplicativo Gym Free",
+    "image": null,
+    "github": "https://www.figma.com/proto/w8e5cXPqqffv00fPZ5LEgf/Projeto-GymFree?node-id=1-3&t=jJwjd0MRvxNSbS14-1",
+    "tipo": "figma"
+  }, 
+  {
+    "name": "Figma Site Maçonaria",
+    "description": "Site Maçonaria",
+    "image": null,
+    "github": "https://www.figma.com/proto/0wRsL8dOtQb2MR8VYQd2Qb/Untitled?node-id=30-52",
+    "tipo": "figma"
+  }, 
+  {
+    "name": "Figma Site Lar do Idoso",
+    "description": "Site Lar do Idoso",
+    "image": null,
+    "github": "https://www.figma.com/proto/w73XPjYRgRng643GIitG0F/Lar-de-Idosos---Filhos-de-Abra%C3%A3o?node-id=676-149&t=algLDGhe29HdN3me-1",
+    "tipo": "figma"
+  }, 
+  {
+    "name": "Figma Meu Portifolio",
+    "description": "Site Meu Portifolio",
+    "image": null,
+    "github": "https://www.figma.com/proto/QiWjC033sY7HVtPMZY5mJW/Untitled?node-id=0-1&t=d39gFeyLYq0DnE3F-1",
+    "tipo": "figma"
+  }, 
+
+  {
+    "name": "Figma Aplicativo EcoAqua",
+    "description": "Aplicativo EcoAqua",
+    "image": "src/assets/image/ecoaqua.png",
+    "github": null,
+    "tipo": "figma"
+  }, 
+  {
+    "name": "Gestao de sistemas de usuario",
+    "description": "Sistema para controlar usuarios",
+    "image": "src/assets/image/lista.png",
+    "github": "https://github.com/IuryGiovanny/gestao-de-usuario",
+    "tipo": "github"
+  },  
+  {
+      "name": "Jogo da velha",
+      "description": "Jogo da velha em react",
+      "image": "src/assets/image/jogodavelha.png",
+      "github": "https://github.com/usuario/projeto1",
+      "tipo": "github"
+    },
+    {
+      "name": "Lista de Tarefa",
+      "description": "Projeto para criação de uma lista de tarefa simples",
+      "image": "src/assets/image/todo.png",
+      "github": "https://github.com/IuryGiovanny/listadetarefas",
+      "tipo": "github"
+    },
+    {
+      "name": "Pokedex",
+      "description": "Lista de todos os pokemons com a API pokeapi.co",
+      "image": "src/assets/image/pokedex.png",
+      "github": "https://github.com/IuryGiovanny/pokedex",
+      "tipo": "github"
+    } 
+]
+  
