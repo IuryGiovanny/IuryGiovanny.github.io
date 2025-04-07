@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://iurygiovanny.github.io/meuportifolio",
+  "homepage": "https://iurygiovanny.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
